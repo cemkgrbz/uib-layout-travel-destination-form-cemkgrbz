@@ -4,7 +4,7 @@ https://cemkgrbz.github.io/uib-layout-travel-destination-form-cemkgrbz/
 
 # Travel Destination Form
 
-Create a travel from as shown in the mockup below:
+Create a travel from as shown in the mockup below: 
 
 ![Simple form example](simple-form-example.jpg)
 
